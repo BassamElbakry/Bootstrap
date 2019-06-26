@@ -55,3 +55,12 @@ background: #512da8;
     left: 0;
     height: 300px;
 }
+.vav input:last-child
+{
+    display: none;
+}
+#carouselbutton{
+    right:  0px;
+    position: absolute;
+    bottom: 0px;
+}
